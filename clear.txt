@@ -1,0 +1,5 @@
+init 0 _ R init
+init 1 _ R init
+init a _ R init
+init b _ R init
+init _ _ * halt
