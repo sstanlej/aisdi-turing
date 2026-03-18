@@ -5,9 +5,9 @@ Prosty i funkcjonalny symulator **Maszyny Turinga** zaimplementowany w języku P
 
 
 ## Funkcjonalności
-* Wizualizacja procesu**: Wyświetlanie aktualnej zawartości taśmy, stanu automatu oraz graficzne wskazanie pozycji głowicy (`^`).
-* Elastyczna konfiguracja**: Możliwość definiowania własnych algorytmów bez modyfikacji kodu źródłowego.
-* Logika zatrzymania**: Maszyna kończy pracę po osiągnięciu stanu zaczynającego się od słowa `halt` lub w przypadku braku zdefiniowanej reguły dla danej kombinacji (stan, symbol).
+* Wizualizacja procesu: Wyświetlanie aktualnej zawartości taśmy, stanu automatu oraz graficzne wskazanie pozycji głowicy (`^`).
+* Elastyczna konfiguracja: Możliwość definiowania własnych algorytmów bez modyfikacji kodu źródłowego.
+* Logika zatrzymania: Maszyna kończy pracę po osiągnięciu stanu zaczynającego się od słowa `halt` lub w przypadku braku zdefiniowanej reguły dla danej kombinacji (stan, symbol).
 
 ## Instrukcja uruchomienia
 
